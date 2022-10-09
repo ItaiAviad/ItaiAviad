@@ -3,7 +3,7 @@
 My name is Itai and I am a full stack web developer.
 <br>You can see some of my open source projects here: https://github.com/ItaiAviad
 
-Here is a link to on of my private projects called Eazychat: https://eazychat.onrender.com
+Here is a link to one of my private projects called Eazychat: https://eazychat.onrender.com
 
 <!--
 **ItaiAviad/ItaiAviad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
